@@ -1,0 +1,30 @@
+{
+  "name": "unary-with-optional-callback",
+  "version": "0.0.0",
+  "description": "Creates a unary function with an optional transformer callback from a callable and a transformer fallback",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiercejudo/unary-with-optional-callback"
+  },
+  "keywords": [
+    "functional"
+  ],
+  "author": "Javier Cejudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiercejudo/unary-with-optional-callback/issues"
+  },
+  "homepage": "https://github.com/javiercejudo/unary-with-optional-callback",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-istanbul": "^0.10.2",
+    "gulp-mocha": "^2.1.3",
+    "rimraf": "^2.4.3",
+    "should": "^7.1.1"
+  }
+}
