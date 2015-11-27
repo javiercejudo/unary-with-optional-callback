@@ -1,6 +1,6 @@
 {
   "name": "unary-with-optional-callback",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates a unary function with an optional transformer callback from a callable and a transformer fallback",
   "main": "src/index.js",
   "scripts": {
